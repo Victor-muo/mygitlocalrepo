@@ -1,0 +1,2 @@
+This is my first commit for file1.txt.
+To be stored in my git local repository.
