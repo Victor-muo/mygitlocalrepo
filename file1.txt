@@ -1,2 +1,5 @@
 This is my first commit for file1.txt.
 To be stored in my git local repository.
+I may make changes to this file in the past.
+Will be creating up to 3 additional files for my windows git local repo.
+
